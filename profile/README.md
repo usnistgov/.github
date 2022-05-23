@@ -2,3 +2,7 @@
 
 
 Please visit [code.nist.gov](https://code.nist.gov), the NIST Opensource Contributions Portal.
+
+https://www.nist.gov/open/copyright-fair-use-and-licensing-statements-srd-data-software-and-technical-series-publications
+
+
