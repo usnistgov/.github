@@ -1,4 +1,4 @@
-“NOTICE: Due to a lapse in federal funding, this account will not be updated until new appropriations are enacted. Learn more: https://www.commerce.gov/news/blog/2025/10/us-department-commerce-plan-orderly-shutdown-due-lapse-congressional”
+## “NOTICE: Due to a lapse in federal funding, this account will not be updated until new appropriations are enacted. Learn more: (https://www.commerce.gov/news/blog/2025/10/us-department-commerce-plan-orderly-shutdown-due-lapse-congressional)
 
 
 
